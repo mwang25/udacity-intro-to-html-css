@@ -1,0 +1,8 @@
+This repo contains work from Udacity's Intro to HTML and CSS course.
+
+The 3 subdirectories are:
+toplist (lesson 1): very basic html and css
+framework (lesson 3): introducing a generic and reusable css
+bootstrap (lesson 4): using the publicly available bootstrap css
+
+I keep using this repo for practice with html, css, and git/github.
